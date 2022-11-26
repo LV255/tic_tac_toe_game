@@ -1,6 +1,14 @@
-# tic_tac_toe_game
-- python terminal game
-- tic tac toe (or is it naughts and crosses...?) with computer opponent
+## Project Name: Naughts and crosses
+Naughts and crosses python terminal game
 
-## What I learnt
+## Motivation
+It was a suggested project when I was learning Python on CodeCademy.
+
+## Tech used
+- Python
+
+## Project features
+- program accepts user input
+
+## Lessons learnt
 - This was my first python project so I needed a lot of help from youtube tutorials
